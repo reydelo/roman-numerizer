@@ -2,6 +2,11 @@
   "name": "roman-numerizer",
   "version": "1.0.0",
   "description": "convert numbers to roman numerals",
+  "homepage": "https://github.com/reydelo/roman-numerizer#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reydelo/roman-numerizer"
+  },
   "main": "convertToRomanNumeral.js",
   "scripts": {
     "test": "jest"
