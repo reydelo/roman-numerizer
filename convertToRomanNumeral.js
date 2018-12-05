@@ -28,7 +28,7 @@ const validateInput = (input) => {
   }
 }
 
-const convertToRomanNumeral = (input) => {
+exports.convertToRomanNumeral = (input) => {
   validateInput(input);
 
   return romanNumeralValues.reduce((accumulator, { integer, numeral }) => {

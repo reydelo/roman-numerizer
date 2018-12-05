@@ -1,0 +1,23 @@
+{
+  "name": "roman-numerizer",
+  "version": "1.0.0",
+  "description": "convert numbers to roman numerals",
+  "main": "convertToRomanNumeral.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "reyna.deloge@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "keywords": [
+    "number",
+    "numbers",
+    "numeral",
+    "numerals",
+    "roman",
+    "romanize",
+    "numerize"
+  ]
+}
