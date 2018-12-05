@@ -5,7 +5,7 @@ Convert numbers to roman numerals
 Using npm:
 
   $ npm install roman-numerizer
-    
+
 Using git:
 
   $ git clone git@github.com:reydelo/roman-numerizer.git
@@ -13,10 +13,10 @@ Using git:
 ## Usage ##
 
 ### roman-numerizer.convertToRomanNumeral(integer) ###
-convertToRomanNumeral() takes an integer and returns a string with the roman numeral equivalent.
+toRomanNumeral() takes an integer and returns a string with the roman numeral equivalent.
 
 ### roman-numerizer.convertFromRomanNumeral(string) ###
-convertFromRomanNumeral() takes a valid roman numeral string and returns the number value.
+fromRomanNumeral() takes a valid roman numeral string and returns the number value.
 
 ## Tests ##
 Unit tests are done using [jest](https://jestjs.io/). To run the tests on your machine:

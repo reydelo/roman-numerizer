@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/reydelo/roman-numerizer"
   },
-  "main": "convertToRomanNumeral.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
