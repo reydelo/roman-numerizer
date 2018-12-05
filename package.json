@@ -1,7 +1,7 @@
 {
   "name": "roman-numerizer",
   "version": "1.0.0",
-  "description": "convert numbers to roman numerals",
+  "description": "convert numbers to roman numerals and vice versa",
   "homepage": "https://github.com/reydelo/roman-numerizer#readme",
   "repository": {
     "type": "git",
